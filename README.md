@@ -17,4 +17,4 @@
 
 为了帮助你找到更多精彩影片，平台还会根据你的观看历史推荐相关内容，轻松发现新片。用户互动也是平台的亮点之一，影片下方通常会显示观众的评分和评论，帮助你了解影片质量。此外，一些平台还提供社交分享功能，用户可以将喜爱的影片推荐给朋友，进一步增强网站的社交互动。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/met20250707/met3 ）</span>
